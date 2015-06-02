@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "name": "instantbg",
+        "manifest": {
+            "version": "v1"
+        }
+    },
+    "sources": [
+        {
+            "id": "sHRTTdyCQfY",
+            "title": "Beatriz Gosta - #1 Pack Night",
+            "length": 409,
+            "dateDownloaded": "2015-05-20T22:33:44.098Z",
+            "size": 4602729,
+            "path": "./sources/sHRTTdyCQfY.webm"
+        }
+    ],
+    "sounds": [
+        {
+            "id": "000001",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000001.mp3",
+                "ogg": "./sounds/000001.ogg"
+            },
+            "startsAt": 35,
+            "length": 1,
+            "text": "Desgramadamente",
+            "dateAdded": "2015-05-20T22:39:56.239Z"
+        },
+        {
+            "id": "000002",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000002.mp3",
+                "ogg": "./sounds/000002.ogg"
+            },
+            "startsAt": 43,
+            "length": 2,
+            "text": "Jogo-me pelada dentro da cama",
+            "dateAdded": "2015-05-20T22:43:36.562Z"
+        },
+        {
+            "id": "000003",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000003.mp3",
+                "ogg": "./sounds/000003.ogg"
+            },
+            "startsAt": 65,
+            "length": 2,
+            "text": "Jogo-me assim pelada dentro da cama",
+            "dateAdded": "2015-05-20T22:46:58.868Z"
+        },
+        {
+            "id": "000004",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000004.mp3",
+                "ogg": "./sounds/000004.ogg"
+            },
+            "startsAt": 85,
+            "length": 1,
+            "text": "Greg, número um",
+            "dateAdded": "2015-05-20T23:01:07.489Z"
+        },
+        {
+            "id": "000005",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000005.mp3",
+                "ogg": "./sounds/000005.ogg"
+            },
+            "startsAt": 88,
+            "length": 18,
+            "text": "Dois, xixizada de rua",
+            "dateAdded": "2015-05-20T23:03:17.786Z"
+        },
+        {
+            "id": "000006",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000006.mp3",
+                "ogg": "./sounds/000006.ogg"
+            },
+            "startsAt": 105,
+            "length": 2,
+            "text": "Já bais a medo",
+            "dateAdded": "2015-05-20T23:04:30.500Z"
+        },
+        {
+            "id": "000007",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000007.mp3",
+                "ogg": "./sounds/000007.ogg"
+            },
+            "startsAt": 119,
+            "length": 3,
+            "text": "Tu já te diriges ao multibanco a miedo!",
+            "dateAdded": "2015-05-20T23:07:22.876Z"
+        },
+        {
+            "id": "000008",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000008.mp3",
+                "ogg": "./sounds/000008.ogg"
+            },
+            "startsAt": 121,
+            "length": 2,
+            "text": "Que tombo eu larguei ontem",
+            "dateAdded": "2015-05-20T23:08:34.340Z"
+        }
+    ]
+}
