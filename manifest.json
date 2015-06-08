@@ -145,18 +145,6 @@
             "dateAdded": "2015-05-20T23:01:07.489Z"
         },
         {
-            "id": "000005",
-            "sourceID": "sHRTTdyCQfY",
-            "paths": {
-                "mp3": "./sounds/000005.mp3",
-                "ogg": "./sounds/000005.ogg"
-            },
-            "startsAt": 88,
-            "length": 18,
-            "text": "Dois, xixizada de rua",
-            "dateAdded": "2015-05-20T23:03:17.786Z"
-        },
-        {
             "id": "000006",
             "sourceID": "sHRTTdyCQfY",
             "paths": {
@@ -169,18 +157,6 @@
             "dateAdded": "2015-05-20T23:04:30.500Z"
         },
         {
-            "id": "000007",
-            "sourceID": "sHRTTdyCQfY",
-            "paths": {
-                "mp3": "./sounds/000007.mp3",
-                "ogg": "./sounds/000007.ogg"
-            },
-            "startsAt": 119,
-            "length": 3,
-            "text": "Tu já te diriges ao multibanco a miedo!",
-            "dateAdded": "2015-05-20T23:07:22.876Z"
-        },
-        {
             "id": "000008",
             "sourceID": "sHRTTdyCQfY",
             "paths": {
@@ -190,7 +166,31 @@
             "startsAt": 121,
             "length": 2,
             "text": "Que tombo eu larguei ontem",
-            "dateAdded": "2015-05-20T23:08:34.340Z"
+            "dateAdded": "2015-06-08T22:08:13.752Z"
+        },
+        {
+            "id": "000007",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000007.mp3",
+                "ogg": "./sounds/000007.ogg"
+            },
+            "startsAt": 119,
+            "length": 3,
+            "text": "Tu já te diriges ao MB a medo",
+            "dateAdded": "2015-06-08T22:11:18.272Z"
+        },
+        {
+            "id": "000005",
+            "sourceID": "sHRTTdyCQfY",
+            "paths": {
+                "mp3": "./sounds/000005.mp3",
+                "ogg": "./sounds/000005.ogg"
+            },
+            "startsAt": 88,
+            "length": 2,
+            "text": "2, xixizada de rua",
+            "dateAdded": "2015-06-08T22:13:17.573Z"
         }
     ]
 }
