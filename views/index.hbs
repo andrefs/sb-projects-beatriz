@@ -48,22 +48,24 @@
         <div class="background"></div>
         <div class="content">
             <div class="ink-grid">
-                <header class="">
-                </header>
-
-                <h1>{{metadata.title}}</h1>
                 <div class="column-group gutters push-center">
-                    <div class="column-group xlarge-55 large-55 medium-55 all-100 align-left">
-                        {{#sounds}}
-                            {{> button}}
-                        {{/sounds}}
-                    </div>
-                    <div class="xlarge-25 large-25 medium-25" style="position:relative;">
-                        <div class="face-container">
-                        <div class="face">
-                            <img src="assets/imgs/face.png" />
-                            <p class="align-center">Beatriz Gosta</p>
+                    <div class="column-group xlarge-75 large-75 all-100 push-center">
+                        <header class="align-left xlarge-90 large-90 all-100">
+                            <h1 class="t-large hide-medium hide-small hide-tiny">Instant Beatriz Gosta</h1>
+                            <h1 class="t-small hide-xlarge hide-large">Instant Beatriz Gosta</h1>
+                        </header>
+                        <div class="column-group xlarge-70 large-70  all-100 align-left">
+                            {{#sounds}}
+                                {{> button}}
+                            {{/sounds}}
                         </div>
+                        <div class="xlarge-25 large-25" style="position:relative;">
+                            <div class="face-container">
+                            <div class="face">
+                                <img src="assets/imgs/face.png" />
+                                <p class="align-center">Beatriz Gosta</p>
+                            </div>
+                            </div>
                         </div>
                     </div>
                 </div>
