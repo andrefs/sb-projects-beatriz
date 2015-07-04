@@ -24,11 +24,13 @@ sb.buttons.playSound = function(ev){
 };
 
 sb.buttons.highlightButton = function(button){
+    Ink.Dom.Css.addClassName(Ink.s('div.face-image'), 'speaking');
     Ink.Dom.Element.scrollTo(button);
     Ink.Dom.Css.addClassName(button, 'playing');
 };
 
 sb.buttons.unHighlightButton = function(button){
+    Ink.Dom.Css.removeClassName(Ink.s('div.face-image'), 'speaking');
     Ink.Dom.Css.removeClassName(button, 'playing');
 };
 

@@ -118,10 +118,27 @@ div.face > p {
     text-transform: uppercase;
 }
 
+@-webkit-keyframes play {
+    100% { background-position: -1610px; }
+}
+
+div.face-image {
+    width: 230px;
+    height: 306px;
+    background: url('../imgs/bg-sprite.png') left center;
+    background-repeat: no-repeat;
+}
+div.face-image.speaking {
+    -webkit-animation: play .5s steps(7) infinite;
+}
 
 /***********
  * Buttons *
  ***********/
+
+div.button:hover {
+    background-color: rgba(0,0,0,0.3);
+}
 
 div.button {
     padding: 2%;
