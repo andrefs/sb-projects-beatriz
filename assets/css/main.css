@@ -51,11 +51,11 @@ h1.t-small {
     -o-background-size: cover;
     background-size: cover;
 
-    -webkit-filter : blur(20px);
-    -moz-filter    : blur(20px);
-    -o-filter      : blur(20px);
-    -ms-filter     : blur(20px);
-    filter         : blur(20px);
+    -webkit-filter : blur(20px) brightness(0.5);
+    -moz-filter    : blur(20px) brightness(0.5);
+    -o-filter      : blur(20px) brightness(0.5);
+    -ms-filter     : blur(20px) brightness(0.5);
+    filter         : blur(20px) brightness(0.5);
 }
 
 /*
@@ -183,4 +183,14 @@ div.button.playing {
 @keyframes btnHL {
     from {background-color: white;}
     to {background-color: orange;}
+}
+
+footer > p.authors {
+    font-size: 15px;
+    border-top: 1px solid #ffffff;
+    margin-top: 30px;
+}
+
+div.fb-share {
+    margin-top: -4px;
 }
