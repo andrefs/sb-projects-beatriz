@@ -74,6 +74,8 @@ Ink.requireModules([
             var weekAgo = new Date();
             weekAgo.setDate(weekAgo.getDate()-7);
             if(snipDate > weekAgo){
+                var img = Ink.s('img.button', button);
+                img.src = 'assets/imgs/button_new.svg';
                 Ink.Dom.Css.addClassName(button, 'new');
             }
         });
