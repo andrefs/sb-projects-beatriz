@@ -121,6 +121,18 @@
     ],
     "sounds": [
         {
+            "id": "000061",
+            "sourceID": "O-SEzOm6gqI",
+            "paths": {
+                "mp3": "./sounds/000061.mp3",
+                "ogg": "./sounds/000061.ogg"
+            },
+            "startsAt": 126,
+            "length": 2,
+            "text": "Passa uma kizomba pa salvar a noite",
+            "dateAdded": "2015-07-06T19:12:38.512Z"
+        },
+        {
             "id": "000067",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
@@ -131,18 +143,6 @@
             "length": 2,
             "text": "Posso dizer uma coisa?",
             "dateAdded": "2015-07-06T19:21:40.817Z"
-        },
-        {
-            "id": "000064",
-            "sourceID": "O-SEzOm6gqI",
-            "paths": {
-                "mp3": "./sounds/000064.mp3",
-                "ogg": "./sounds/000064.ogg"
-            },
-            "startsAt": 180,
-            "length": 1,
-            "text": "Pá acho que agora não",
-            "dateAdded": "2015-07-06T19:17:25.370Z"
         },
         {
             "id": "000001",
@@ -673,16 +673,16 @@
             "dateAdded": "2015-06-08T23:32:49.895Z"
         },
         {
-            "id": "000061",
+            "id": "000064",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000061.mp3",
-                "ogg": "./sounds/000061.ogg"
+                "mp3": "./sounds/000064.mp3",
+                "ogg": "./sounds/000064.ogg"
             },
-            "startsAt": 126,
-            "length": 2,
-            "text": "Passa uma kizomba pa salvar a noite",
-            "dateAdded": "2015-07-06T19:12:38.512Z"
+            "startsAt": 180,
+            "length": 1,
+            "text": "Pá acho que agora não",
+            "dateAdded": "2015-07-06T19:17:25.370Z"
         },
         {
             "id": "000046",
@@ -901,52 +901,16 @@
             "dateAdded": "2015-07-06T19:14:33.131Z"
         },
         {
-            "id": "000083",
-            "sourceID": "gc6_UiKOVJc",
-            "paths": {
-                "mp3": "./sounds/000083.mp3",
-                "ogg": "./sounds/000083.ogg"
-            },
-            "startsAt": 219,
-            "length": 2,
-            "text": "Nunca mais faças isso",
-            "dateAdded": "2015-07-06T19:56:20.328Z"
-        },
-        {
-            "id": "000084",
-            "sourceID": "gc6_UiKOVJc",
-            "paths": {
-                "mp3": "./sounds/000084.mp3",
-                "ogg": "./sounds/000084.ogg"
-            },
-            "startsAt": 220,
-            "length": 2,
-            "text": "Ridicularizou o meu pipi",
-            "dateAdded": "2015-07-06T19:57:54.650Z"
-        },
-        {
-            "id": "000072",
+            "id": "000065",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000072.mp3",
-                "ogg": "./sounds/000072.ogg"
+                "mp3": "./sounds/000065.mp3",
+                "ogg": "./sounds/000065.ogg"
             },
-            "startsAt": 275,
+            "startsAt": 182,
             "length": 2,
-            "text": "Tens uma espinha no cu",
-            "dateAdded": "2015-07-06T19:30:32.029Z"
-        },
-        {
-            "id": "000077",
-            "sourceID": "gc6_UiKOVJc",
-            "paths": {
-                "mp3": "./sounds/000077.mp3",
-                "ogg": "./sounds/000077.ogg"
-            },
-            "startsAt": 105,
-            "length": 2,
-            "text": "Pum, quase que te bates cos dentes",
-            "dateAdded": "2015-07-06T19:43:37.062Z"
+            "text": "Um comportamento um bocadinho sinistro",
+            "dateAdded": "2015-07-06T19:18:24.163Z"
         },
         {
             "id": "000066",
@@ -961,76 +925,28 @@
             "dateAdded": "2015-07-06T19:20:09.218Z"
         },
         {
-            "id": "000079",
+            "id": "000078",
             "sourceID": "gc6_UiKOVJc",
             "paths": {
-                "mp3": "./sounds/000079.mp3",
-                "ogg": "./sounds/000079.ogg"
+                "mp3": "./sounds/000078.mp3",
+                "ogg": "./sounds/000078.ogg"
             },
-            "startsAt": 140,
+            "startsAt": 120,
             "length": 2,
-            "text": "Já foi da avó, já foi da mãe",
-            "dateAdded": "2015-07-06T19:48:21.581Z"
+            "text": "Hello, tamo namorando",
+            "dateAdded": "2015-07-06T19:45:54.177Z"
         },
         {
-            "id": "000074",
-            "sourceID": "gc6_UiKOVJc",
-            "paths": {
-                "mp3": "./sounds/000074.mp3",
-                "ogg": "./sounds/000074.ogg"
-            },
-            "startsAt": 59,
-            "length": 3,
-            "text": "Trabalhei trabalhei",
-            "dateAdded": "2015-07-06T19:37:20.559Z"
-        },
-        {
-            "id": "000068",
+            "id": "000072",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000068.mp3",
-                "ogg": "./sounds/000068.ogg"
+                "mp3": "./sounds/000072.mp3",
+                "ogg": "./sounds/000072.ogg"
             },
-            "startsAt": 215,
-            "length": 3,
-            "text": "Pá acho que não, acho que num podes bro",
-            "dateAdded": "2015-07-06T19:23:22.106Z"
-        },
-        {
-            "id": "000070",
-            "sourceID": "O-SEzOm6gqI",
-            "paths": {
-                "mp3": "./sounds/000070.mp3",
-                "ogg": "./sounds/000070.ogg"
-            },
-            "startsAt": 258,
-            "length": 3,
-            "text": "Chichizada do pós-sexo",
-            "dateAdded": "2015-07-06T19:27:44.210Z"
-        },
-        {
-            "id": "000073",
-            "sourceID": "gc6_UiKOVJc",
-            "paths": {
-                "mp3": "./sounds/000073.mp3",
-                "ogg": "./sounds/000073.ogg"
-            },
-            "startsAt": 25,
-            "length": 1,
-            "text": "Tou farta de comer um pessoalzinho",
-            "dateAdded": "2015-07-06T19:35:02.492Z"
-        },
-        {
-            "id": "000071",
-            "sourceID": "O-SEzOm6gqI",
-            "paths": {
-                "mp3": "./sounds/000071.mp3",
-                "ogg": "./sounds/000071.ogg"
-            },
-            "startsAt": 264,
+            "startsAt": 275,
             "length": 2,
-            "text": "A empinar o meu bojão",
-            "dateAdded": "2015-07-06T19:29:13.841Z"
+            "text": "Tens uma espinha no cu",
+            "dateAdded": "2015-07-06T19:30:32.029Z"
         },
         {
             "id": "000069",
@@ -1045,40 +961,124 @@
             "dateAdded": "2015-07-06T19:24:57.907Z"
         },
         {
-            "id": "000082",
-            "sourceID": "gc6_UiKOVJc",
-            "paths": {
-                "mp3": "./sounds/000082.mp3",
-                "ogg": "./sounds/000082.ogg"
-            },
-            "startsAt": 208,
-            "length": 1,
-            "text": "Cútchi cútchi",
-            "dateAdded": "2015-07-06T19:55:10.799Z"
-        },
-        {
-            "id": "000065",
+            "id": "000071",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000065.mp3",
-                "ogg": "./sounds/000065.ogg"
+                "mp3": "./sounds/000071.mp3",
+                "ogg": "./sounds/000071.ogg"
             },
-            "startsAt": 182,
+            "startsAt": 264,
             "length": 2,
-            "text": "Um comportamento um bocadinho sinistro",
-            "dateAdded": "2015-07-06T19:18:24.163Z"
+            "text": "A empinar o meu bojão",
+            "dateAdded": "2015-07-06T19:29:13.841Z"
         },
         {
-            "id": "000078",
+            "id": "000070",
+            "sourceID": "O-SEzOm6gqI",
+            "paths": {
+                "mp3": "./sounds/000070.mp3",
+                "ogg": "./sounds/000070.ogg"
+            },
+            "startsAt": 258,
+            "length": 3,
+            "text": "Chichizada do pós-sexo",
+            "dateAdded": "2015-07-06T19:27:44.210Z"
+        },
+        {
+            "id": "000068",
+            "sourceID": "O-SEzOm6gqI",
+            "paths": {
+                "mp3": "./sounds/000068.mp3",
+                "ogg": "./sounds/000068.ogg"
+            },
+            "startsAt": 215,
+            "length": 3,
+            "text": "Pá acho que não, acho que num podes bro",
+            "dateAdded": "2015-07-06T19:23:22.106Z"
+        },
+        {
+            "id": "000081",
             "sourceID": "gc6_UiKOVJc",
             "paths": {
-                "mp3": "./sounds/000078.mp3",
-                "ogg": "./sounds/000078.ogg"
+                "mp3": "./sounds/000081.mp3",
+                "ogg": "./sounds/000081.ogg"
             },
-            "startsAt": 120,
+            "startsAt": 200,
+            "length": 3,
+            "text": "Aquela pomba húmida, aquela pomba dada, aquela pomba entregue",
+            "dateAdded": "2015-07-06T19:53:49.814Z"
+        },
+        {
+            "id": "000074",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000074.mp3",
+                "ogg": "./sounds/000074.ogg"
+            },
+            "startsAt": 59,
+            "length": 3,
+            "text": "Trabalhei trabalhei",
+            "dateAdded": "2015-07-06T19:37:20.559Z"
+        },
+        {
+            "id": "000073",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000073.mp3",
+                "ogg": "./sounds/000073.ogg"
+            },
+            "startsAt": 25,
+            "length": 1,
+            "text": "Tou farta de comer um pessoalzinho",
+            "dateAdded": "2015-07-06T19:35:02.492Z"
+        },
+        {
+            "id": "000085",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000085.mp3",
+                "ogg": "./sounds/000085.ogg"
+            },
+            "startsAt": 221,
             "length": 2,
-            "text": "Hello, tamo namorando",
-            "dateAdded": "2015-07-06T19:45:54.177Z"
+            "text": "Num tratou com respeito o meu pipi",
+            "dateAdded": "2015-07-06T19:58:57.278Z"
+        },
+        {
+            "id": "000084",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000084.mp3",
+                "ogg": "./sounds/000084.ogg"
+            },
+            "startsAt": 220,
+            "length": 2,
+            "text": "Ridicularizou o meu pipi",
+            "dateAdded": "2015-07-06T19:57:54.650Z"
+        },
+        {
+            "id": "000083",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000083.mp3",
+                "ogg": "./sounds/000083.ogg"
+            },
+            "startsAt": 219,
+            "length": 2,
+            "text": "Nunca mais faças isso",
+            "dateAdded": "2015-07-06T19:56:20.328Z"
+        },
+        {
+            "id": "000077",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000077.mp3",
+                "ogg": "./sounds/000077.ogg"
+            },
+            "startsAt": 105,
+            "length": 2,
+            "text": "Pum, quase que te bates cos dentes",
+            "dateAdded": "2015-07-06T19:43:37.062Z"
         },
         {
             "id": "000075",
@@ -1105,16 +1105,16 @@
             "dateAdded": "2015-07-06T19:51:37.678Z"
         },
         {
-            "id": "000081",
+            "id": "000079",
             "sourceID": "gc6_UiKOVJc",
             "paths": {
-                "mp3": "./sounds/000081.mp3",
-                "ogg": "./sounds/000081.ogg"
+                "mp3": "./sounds/000079.mp3",
+                "ogg": "./sounds/000079.ogg"
             },
-            "startsAt": 200,
-            "length": 3,
-            "text": "Aquela pomba húmida, aquela pomba dada, aquela pomba entregue",
-            "dateAdded": "2015-07-06T19:53:49.814Z"
+            "startsAt": 140,
+            "length": 2,
+            "text": "Já foi da avó, já foi da mãe",
+            "dateAdded": "2015-07-06T19:48:21.581Z"
         },
         {
             "id": "000076",
@@ -1129,16 +1129,16 @@
             "dateAdded": "2015-07-06T19:41:09.217Z"
         },
         {
-            "id": "000085",
+            "id": "000082",
             "sourceID": "gc6_UiKOVJc",
             "paths": {
-                "mp3": "./sounds/000085.mp3",
-                "ogg": "./sounds/000085.ogg"
+                "mp3": "./sounds/000082.mp3",
+                "ogg": "./sounds/000082.ogg"
             },
-            "startsAt": 221,
-            "length": 2,
-            "text": "Num tratou com respeito o meu pipi",
-            "dateAdded": "2015-07-06T19:58:57.278Z"
+            "startsAt": 208,
+            "length": 1,
+            "text": "Cútchi cútchi",
+            "dateAdded": "2015-07-06T19:55:10.799Z"
         },
         {
             "id": "000086",
@@ -1211,6 +1211,19 @@
             "length": 2,
             "text": "É uma técnica mesmo incrível",
             "dateAdded": "2015-07-06T20:09:22.083Z"
+        },
+        {
+            "id": "000092",
+            "sourceID": "zN9pcPu5nR8",
+            "paths": {
+                "mp3": "./sounds/000092.mp3",
+                "ogg": "./sounds/000092.ogg"
+            },
+            "startsAt": 39,
+            "length": 1,
+            "text": "Secares directo",
+            "dateAdded": "2015-07-06T20:30:37.167Z",
+            "disabled": false
         }
     ]
 }
