@@ -130,7 +130,7 @@ div.face-image > a.fb-link {
 div.face-image {
     width: 230px;
     height: 306px;
-    background: url('../imgs/bg-sprite.png') left center;
+    background: url('../imgs/face-sprite.png') left center;
     background-repeat: no-repeat;
 }
 div.face-image.speaking {
