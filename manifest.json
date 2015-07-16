@@ -121,30 +121,30 @@
     ],
     "sounds": [
         {
-            "id": "000061",
-            "sourceID": "O-SEzOm6gqI",
+            "id": "000115",
+            "sourceID": "Y8wBsLyemk8",
             "paths": {
-                "mp3": "./sounds/000061.mp3",
-                "ogg": "./sounds/000061.ogg"
+                "mp3": "./sounds/000115.mp3",
+                "ogg": "./sounds/000115.ogg"
             },
-            "startsAt": 126,
-            "length": 2,
-            "text": "Passa uma kizomba pa salvar a noite",
-            "dateAdded": "2015-07-06T19:12:38.512Z",
+            "startsAt": 237,
+            "length": 3,
+            "text": "Tava-me a sentir, pá, donzela",
+            "dateAdded": "2015-07-06T22:10:19.371Z",
             "disabled": false,
             "version": 1
         },
         {
-            "id": "000073",
-            "sourceID": "gc6_UiKOVJc",
+            "id": "000116",
+            "sourceID": "Y8wBsLyemk8",
             "paths": {
-                "mp3": "./sounds/000073.mp3",
-                "ogg": "./sounds/000073.ogg"
+                "mp3": "./sounds/000116.mp3",
+                "ogg": "./sounds/000116.ogg"
             },
-            "startsAt": 25,
-            "length": 1,
-            "text": "Tou farta de comer um pessoalzinho",
-            "dateAdded": "2015-07-06T19:35:02.492Z",
+            "startsAt": 242,
+            "length": 2,
+            "text": "Fiquei nervótica",
+            "dateAdded": "2015-07-06T22:11:55.089Z",
             "disabled": false,
             "version": 1
         },
@@ -255,7 +255,7 @@
             },
             "startsAt": 88,
             "length": 2,
-            "text": "2, xixizada de rua",
+            "text": "2, chichizada de rua",
             "dateAdded": "2015-06-08T22:13:17.573Z",
             "disabled": false,
             "version": 1
@@ -339,7 +339,7 @@
             },
             "startsAt": 167,
             "length": 3,
-            "text": "Tu ja fica bem, tu ja fica incrivel",
+            "text": "Tu já fica bem, tu já fica incrível",
             "dateAdded": "2015-06-08T22:34:41.675Z",
             "disabled": false,
             "version": 1
@@ -367,7 +367,7 @@
             },
             "startsAt": 176,
             "length": 2,
-            "text": "Vai as mensagens enviadas",
+            "text": "Vai às mensagens enviadas",
             "dateAdded": "2015-06-08T22:37:30.897Z",
             "disabled": false,
             "version": 1
@@ -451,7 +451,7 @@
             },
             "startsAt": 205,
             "length": 2,
-            "text": "Tu es a rainha da cockada",
+            "text": "Tu és a rainha da cockada",
             "dateAdded": "2015-06-08T22:48:05.600Z",
             "disabled": false,
             "version": 1
@@ -507,7 +507,7 @@
             },
             "startsAt": 295,
             "length": 2,
-            "text": "Pa tirar o bafo de alcool",
+            "text": "Pa tirar o bafo de álcool",
             "dateAdded": "2015-06-08T23:04:00.301Z",
             "disabled": false,
             "version": 1
@@ -521,7 +521,7 @@
             },
             "startsAt": 285,
             "length": 2,
-            "text": "Tas de oculos escuros, ta super tudo meu",
+            "text": "Tás de óculos escuros, tá super tudo meu",
             "dateAdded": "2015-06-08T23:02:50.832Z",
             "disabled": false,
             "version": 1
@@ -549,7 +549,7 @@
             },
             "startsAt": 280,
             "length": 1,
-            "text": "O teu melhor oculo",
+            "text": "O teu melhor óculo",
             "dateAdded": "2015-06-08T22:58:56.357Z",
             "disabled": false,
             "version": 1
@@ -801,7 +801,7 @@
             },
             "startsAt": 366,
             "length": 1,
-            "text": "Tu nao mandas drogas",
+            "text": "Tu não mandas drogas",
             "dateAdded": "2015-06-08T23:36:34.882Z",
             "disabled": false,
             "version": 1
@@ -961,44 +961,16 @@
             "version": 1
         },
         {
-            "id": "000070",
+            "id": "000061",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000070.mp3",
-                "ogg": "./sounds/000070.ogg"
+                "mp3": "./sounds/000061.mp3",
+                "ogg": "./sounds/000061.ogg"
             },
-            "startsAt": 258,
-            "length": 3,
-            "text": "Chichizada do pós-sexo",
-            "dateAdded": "2015-07-06T19:27:44.210Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000072",
-            "sourceID": "O-SEzOm6gqI",
-            "paths": {
-                "mp3": "./sounds/000072.mp3",
-                "ogg": "./sounds/000072.ogg"
-            },
-            "startsAt": 275,
+            "startsAt": 126,
             "length": 2,
-            "text": "Tens uma espinha no cu",
-            "dateAdded": "2015-07-06T19:30:32.029Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000059",
-            "sourceID": "O-SEzOm6gqI",
-            "paths": {
-                "mp3": "./sounds/000059.mp3",
-                "ogg": "./sounds/000059.ogg"
-            },
-            "startsAt": 67,
-            "length": 2,
-            "text": "Dei uma de porra louca",
-            "dateAdded": "2015-07-06T19:07:34.596Z",
+            "text": "Passa uma kizomba pa salvar a noite",
+            "dateAdded": "2015-07-06T19:12:38.512Z",
             "disabled": false,
             "version": 1
         },
@@ -1017,16 +989,30 @@
             "version": 1
         },
         {
-            "id": "000071",
+            "id": "000062",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000071.mp3",
-                "ogg": "./sounds/000071.ogg"
+                "mp3": "./sounds/000062.mp3",
+                "ogg": "./sounds/000062.ogg"
             },
-            "startsAt": 264,
+            "startsAt": 139,
+            "length": 3,
+            "text": "Atarraxamos biolento",
+            "dateAdded": "2015-07-06T19:14:33.131Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000059",
+            "sourceID": "O-SEzOm6gqI",
+            "paths": {
+                "mp3": "./sounds/000059.mp3",
+                "ogg": "./sounds/000059.ogg"
+            },
+            "startsAt": 67,
             "length": 2,
-            "text": "A empinar o meu bojão",
-            "dateAdded": "2015-07-06T19:29:13.841Z",
+            "text": "Dei uma de porra louca",
+            "dateAdded": "2015-07-06T19:07:34.596Z",
             "disabled": false,
             "version": 1
         },
@@ -1045,30 +1031,16 @@
             "version": 1
         },
         {
-            "id": "000062",
+            "id": "000066",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000062.mp3",
-                "ogg": "./sounds/000062.ogg"
+                "mp3": "./sounds/000066.mp3",
+                "ogg": "./sounds/000066.ogg"
             },
-            "startsAt": 139,
+            "startsAt": 195,
             "length": 3,
-            "text": "Atarraxamos biolento",
-            "dateAdded": "2015-07-06T19:14:33.131Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000068",
-            "sourceID": "O-SEzOm6gqI",
-            "paths": {
-                "mp3": "./sounds/000068.mp3",
-                "ogg": "./sounds/000068.ogg"
-            },
-            "startsAt": 215,
-            "length": 3,
-            "text": "Pá acho que não, acho que num podes bro",
-            "dateAdded": "2015-07-06T19:23:22.106Z",
+            "text": "E bem que num bens assim maleável, tás a ver?",
+            "dateAdded": "2015-07-06T19:20:09.218Z",
             "disabled": false,
             "version": 1
         },
@@ -1087,20 +1059,6 @@
             "version": 1
         },
         {
-            "id": "000067",
-            "sourceID": "O-SEzOm6gqI",
-            "paths": {
-                "mp3": "./sounds/000067.mp3",
-                "ogg": "./sounds/000067.ogg"
-            },
-            "startsAt": 212,
-            "length": 2,
-            "text": "Posso dizer uma coisa?",
-            "dateAdded": "2015-07-06T19:21:40.817Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
             "id": "000065",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
@@ -1115,16 +1073,30 @@
             "version": 1
         },
         {
-            "id": "000066",
+            "id": "000067",
             "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000066.mp3",
-                "ogg": "./sounds/000066.ogg"
+                "mp3": "./sounds/000067.mp3",
+                "ogg": "./sounds/000067.ogg"
             },
-            "startsAt": 195,
+            "startsAt": 212,
+            "length": 2,
+            "text": "Posso dizer uma coisa?",
+            "dateAdded": "2015-07-06T19:21:40.817Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000068",
+            "sourceID": "O-SEzOm6gqI",
+            "paths": {
+                "mp3": "./sounds/000068.mp3",
+                "ogg": "./sounds/000068.ogg"
+            },
+            "startsAt": 215,
             "length": 3,
-            "text": "E bem que num bens assim maleável, tás a ver?",
-            "dateAdded": "2015-07-06T19:20:09.218Z",
+            "text": "Pá acho que não, acho que num podes bro",
+            "dateAdded": "2015-07-06T19:23:22.106Z",
             "disabled": false,
             "version": 1
         },
@@ -1143,30 +1115,30 @@
             "version": 1
         },
         {
-            "id": "000085",
-            "sourceID": "gc6_UiKOVJc",
+            "id": "000070",
+            "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000085.mp3",
-                "ogg": "./sounds/000085.ogg"
+                "mp3": "./sounds/000070.mp3",
+                "ogg": "./sounds/000070.ogg"
             },
-            "startsAt": 221,
-            "length": 2,
-            "text": "Num tratou com respeito o meu pipi",
-            "dateAdded": "2015-07-06T19:58:57.278Z",
+            "startsAt": 258,
+            "length": 3,
+            "text": "Chichizada do pós-sexo",
+            "dateAdded": "2015-07-06T19:27:44.210Z",
             "disabled": false,
             "version": 1
         },
         {
-            "id": "000112",
-            "sourceID": "Y8wBsLyemk8",
+            "id": "000071",
+            "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000112.mp3",
-                "ogg": "./sounds/000112.ogg"
+                "mp3": "./sounds/000071.mp3",
+                "ogg": "./sounds/000071.ogg"
             },
-            "startsAt": 224,
-            "length": 3,
-            "text": "Escarra-me pá piça, tranquilo",
-            "dateAdded": "2015-07-06T22:04:17.536Z",
+            "startsAt": 264,
+            "length": 2,
+            "text": "A empinar o meu bojão",
+            "dateAdded": "2015-07-06T19:29:13.841Z",
             "disabled": false,
             "version": 1
         },
@@ -1185,72 +1157,44 @@
             "version": 1
         },
         {
-            "id": "000090",
+            "id": "000073",
             "sourceID": "gc6_UiKOVJc",
             "paths": {
-                "mp3": "./sounds/000090.mp3",
-                "ogg": "./sounds/000090.ogg"
+                "mp3": "./sounds/000073.mp3",
+                "ogg": "./sounds/000073.ogg"
             },
-            "startsAt": 395,
-            "length": 3,
-            "text": "Então bro? Temos que conversar né? Hello!",
-            "dateAdded": "2015-07-06T20:08:18.012Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000075",
-            "sourceID": "gc6_UiKOVJc",
-            "paths": {
-                "mp3": "./sounds/000075.mp3",
-                "ogg": "./sounds/000075.ogg"
-            },
-            "startsAt": 68,
-            "length": 4,
-            "text": "A conversa num estava a rebentar as costuras de interessante",
-            "dateAdded": "2015-07-06T19:39:39.799Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000092",
-            "sourceID": "zN9pcPu5nR8",
-            "paths": {
-                "mp3": "./sounds/000092.mp3",
-                "ogg": "./sounds/000092.ogg"
-            },
-            "startsAt": 39,
+            "startsAt": 25,
             "length": 1,
-            "text": "Secares directo",
-            "dateAdded": "2015-07-06T20:30:37.167Z",
+            "text": "Tou farta de comer um pessoalzinho",
+            "dateAdded": "2015-07-06T19:35:02.492Z",
             "disabled": false,
             "version": 1
         },
         {
-            "id": "000078",
-            "sourceID": "gc6_UiKOVJc",
+            "id": "000072",
+            "sourceID": "O-SEzOm6gqI",
             "paths": {
-                "mp3": "./sounds/000078.mp3",
-                "ogg": "./sounds/000078.ogg"
+                "mp3": "./sounds/000072.mp3",
+                "ogg": "./sounds/000072.ogg"
             },
-            "startsAt": 120,
+            "startsAt": 275,
             "length": 2,
-            "text": "Hello, tamo namorando",
-            "dateAdded": "2015-07-06T19:45:54.177Z",
+            "text": "Tens uma espinha no cu",
+            "dateAdded": "2015-07-06T19:30:32.029Z",
             "disabled": false,
             "version": 1
         },
         {
-            "id": "000076",
-            "sourceID": "gc6_UiKOVJc",
+            "id": "000112",
+            "sourceID": "Y8wBsLyemk8",
             "paths": {
-                "mp3": "./sounds/000076.mp3",
-                "ogg": "./sounds/000076.ogg"
+                "mp3": "./sounds/000112.mp3",
+                "ogg": "./sounds/000112.ogg"
             },
-            "startsAt": 80,
-            "length": 1,
-            "text": "Porém contudo",
-            "dateAdded": "2015-07-06T19:41:09.217Z",
+            "startsAt": 224,
+            "length": 3,
+            "text": "Escarra-me pá piça, tranquilo",
+            "dateAdded": "2015-07-06T22:04:17.536Z",
             "disabled": false,
             "version": 1
         },
@@ -1269,44 +1213,30 @@
             "version": 1
         },
         {
-            "id": "000100",
-            "sourceID": "Y8wBsLyemk8",
+            "id": "000076",
+            "sourceID": "gc6_UiKOVJc",
             "paths": {
-                "mp3": "./sounds/000100.mp3",
-                "ogg": "./sounds/000100.ogg"
+                "mp3": "./sounds/000076.mp3",
+                "ogg": "./sounds/000076.ogg"
             },
-            "startsAt": 47,
-            "length": 2,
-            "text": "Com o meu cabelo sheilona",
-            "dateAdded": "2015-07-06T21:42:27.133Z",
+            "startsAt": 80,
+            "length": 1,
+            "text": "Porém contudo",
+            "dateAdded": "2015-07-06T19:41:09.217Z",
             "disabled": false,
             "version": 1
         },
         {
-            "id": "000081",
+            "id": "000075",
             "sourceID": "gc6_UiKOVJc",
             "paths": {
-                "mp3": "./sounds/000081.mp3",
-                "ogg": "./sounds/000081.ogg"
+                "mp3": "./sounds/000075.mp3",
+                "ogg": "./sounds/000075.ogg"
             },
-            "startsAt": 200,
-            "length": 3,
-            "text": "Aquela pomba húmida, aquela pomba dada, aquela pomba entregue",
-            "dateAdded": "2015-07-06T19:53:49.814Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000080",
-            "sourceID": "gc6_UiKOVJc",
-            "paths": {
-                "mp3": "./sounds/000080.mp3",
-                "ogg": "./sounds/000080.ogg"
-            },
-            "startsAt": 170,
-            "length": 2,
-            "text": "Tava tipo nervótica",
-            "dateAdded": "2015-07-06T19:51:37.678Z",
+            "startsAt": 68,
+            "length": 4,
+            "text": "A conversa num estava a rebentar as costuras de interessante",
+            "dateAdded": "2015-07-06T19:39:39.799Z",
             "disabled": false,
             "version": 1
         },
@@ -1325,30 +1255,86 @@
             "version": 1
         },
         {
-            "id": "000089",
+            "id": "000078",
             "sourceID": "gc6_UiKOVJc",
             "paths": {
-                "mp3": "./sounds/000089.mp3",
-                "ogg": "./sounds/000089.ogg"
+                "mp3": "./sounds/000078.mp3",
+                "ogg": "./sounds/000078.ogg"
             },
-            "startsAt": 385,
+            "startsAt": 120,
             "length": 2,
-            "text": "Desapareci do mapa",
-            "dateAdded": "2015-07-06T20:06:28.174Z",
+            "text": "Hello, tamo namorando",
+            "dateAdded": "2015-07-06T19:45:54.177Z",
             "disabled": false,
             "version": 1
         },
         {
-            "id": "000102",
+            "id": "000082",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000082.mp3",
+                "ogg": "./sounds/000082.ogg"
+            },
+            "startsAt": 208,
+            "length": 1,
+            "text": "Cútchi cútchi",
+            "dateAdded": "2015-07-06T19:55:10.799Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000080",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000080.mp3",
+                "ogg": "./sounds/000080.ogg"
+            },
+            "startsAt": 170,
+            "length": 2,
+            "text": "Tava tipo nervótica",
+            "dateAdded": "2015-07-06T19:51:37.678Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000081",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000081.mp3",
+                "ogg": "./sounds/000081.ogg"
+            },
+            "startsAt": 200,
+            "length": 3,
+            "text": "Aquela pomba húmida, aquela pomba dada, aquela pomba entregue",
+            "dateAdded": "2015-07-06T19:53:49.814Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000113",
             "sourceID": "Y8wBsLyemk8",
             "paths": {
-                "mp3": "./sounds/000102.mp3",
-                "ogg": "./sounds/000102.ogg"
+                "mp3": "./sounds/000113.mp3",
+                "ogg": "./sounds/000113.ogg"
             },
-            "startsAt": 99,
+            "startsAt": 227,
             "length": 2,
-            "text": "Caímos na gandaia directo",
-            "dateAdded": "2015-07-06T21:47:10.527Z",
+            "text": "Puta, tranquilo",
+            "dateAdded": "2015-07-06T22:07:42.737Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000088",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000088.mp3",
+                "ogg": "./sounds/000088.ogg"
+            },
+            "startsAt": 317,
+            "length": 1,
+            "text": "Bro, pára tudo!",
+            "dateAdded": "2015-07-06T20:04:28.545Z",
             "disabled": false,
             "version": 1
         },
@@ -1381,20 +1367,6 @@
             "version": 1
         },
         {
-            "id": "000099",
-            "sourceID": "iWAIX559IH8",
-            "paths": {
-                "mp3": "./sounds/000099.mp3",
-                "ogg": "./sounds/000099.ogg"
-            },
-            "startsAt": 4,
-            "length": 3,
-            "text": "Tá a avacalhar directo man",
-            "dateAdded": "2015-07-06T21:38:42.562Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
             "id": "000084",
             "sourceID": "gc6_UiKOVJc",
             "paths": {
@@ -1405,6 +1377,62 @@
             "length": 2,
             "text": "Ridicularizou o meu pipi",
             "dateAdded": "2015-07-06T19:57:54.650Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000089",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000089.mp3",
+                "ogg": "./sounds/000089.ogg"
+            },
+            "startsAt": 385,
+            "length": 2,
+            "text": "Desapareci do mapa",
+            "dateAdded": "2015-07-06T20:06:28.174Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000110",
+            "sourceID": "Y8wBsLyemk8",
+            "paths": {
+                "mp3": "./sounds/000110.mp3",
+                "ogg": "./sounds/000110.ogg"
+            },
+            "startsAt": 190,
+            "length": 1,
+            "text": "Uma chuchinha básica",
+            "dateAdded": "2015-07-06T22:01:21.943Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000092",
+            "sourceID": "zN9pcPu5nR8",
+            "paths": {
+                "mp3": "./sounds/000092.mp3",
+                "ogg": "./sounds/000092.ogg"
+            },
+            "startsAt": 39,
+            "length": 1,
+            "text": "Secares directo",
+            "dateAdded": "2015-07-06T20:30:37.167Z",
+            "disabled": true,
+            "version": 1
+        },
+        {
+            "id": "000090",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000090.mp3",
+                "ogg": "./sounds/000090.ogg"
+            },
+            "startsAt": 395,
+            "length": 3,
+            "text": "Então bro? Temos que conversar né? Hello!",
+            "dateAdded": "2015-07-06T20:08:18.012Z",
             "disabled": false,
             "version": 1
         },
@@ -1423,44 +1451,16 @@
             "version": 1
         },
         {
-            "id": "000093",
-            "sourceID": "zN9pcPu5nR8",
+            "id": "000109",
+            "sourceID": "Y8wBsLyemk8",
             "paths": {
-                "mp3": "./sounds/000093.mp3",
-                "ogg": "./sounds/000093.ogg"
+                "mp3": "./sounds/000109.mp3",
+                "ogg": "./sounds/000109.ogg"
             },
-            "startsAt": 35,
+            "startsAt": 168,
             "length": 1,
-            "text": "Tu tem que cortar no hidrato",
-            "dateAdded": "2015-07-06T21:24:24.944Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000096",
-            "sourceID": "zN9pcPu5nR8",
-            "paths": {
-                "mp3": "./sounds/000096.mp3",
-                "ogg": "./sounds/000096.ogg"
-            },
-            "startsAt": 136,
-            "length": 1,
-            "text": "Tu tá foda meu",
-            "dateAdded": "2015-07-06T21:32:25.581Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000098",
-            "sourceID": "zN9pcPu5nR8",
-            "paths": {
-                "mp3": "./sounds/000098.mp3",
-                "ogg": "./sounds/000098.ogg"
-            },
-            "startsAt": 186,
-            "length": 2,
-            "text": "Tava tão em pânico que eu dei a fuga",
-            "dateAdded": "2015-07-06T21:36:34.357Z",
+            "text": "Hardcore shit",
+            "dateAdded": "2015-07-06T21:59:15.156Z",
             "disabled": false,
             "version": 1
         },
@@ -1479,16 +1479,44 @@
             "version": 1
         },
         {
-            "id": "000095",
+            "id": "000093",
             "sourceID": "zN9pcPu5nR8",
             "paths": {
-                "mp3": "./sounds/000095.mp3",
-                "ogg": "./sounds/000095.ogg"
+                "mp3": "./sounds/000093.mp3",
+                "ogg": "./sounds/000093.ogg"
             },
-            "startsAt": 134,
+            "startsAt": 35,
+            "length": 1,
+            "text": "Tu tem que cortar no hidrato",
+            "dateAdded": "2015-07-06T21:24:24.944Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000108",
+            "sourceID": "Y8wBsLyemk8",
+            "paths": {
+                "mp3": "./sounds/000108.mp3",
+                "ogg": "./sounds/000108.ogg"
+            },
+            "startsAt": 160,
+            "length": 3,
+            "text": "Pânico, estrondo, moca",
+            "dateAdded": "2015-07-06T21:58:03.086Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000098",
+            "sourceID": "zN9pcPu5nR8",
+            "paths": {
+                "mp3": "./sounds/000098.mp3",
+                "ogg": "./sounds/000098.ogg"
+            },
+            "startsAt": 186,
             "length": 2,
-            "text": "Se tu pensas tipo, vais sacar as cuecas para limpar o cu",
-            "dateAdded": "2015-07-06T21:30:37.359Z",
+            "text": "Tava tão em pânico que eu dei a fuga",
+            "dateAdded": "2015-07-06T21:36:34.357Z",
             "disabled": false,
             "version": 1
         },
@@ -1507,30 +1535,44 @@
             "version": 1
         },
         {
-            "id": "000088",
-            "sourceID": "gc6_UiKOVJc",
+            "id": "000096",
+            "sourceID": "zN9pcPu5nR8",
             "paths": {
-                "mp3": "./sounds/000088.mp3",
-                "ogg": "./sounds/000088.ogg"
+                "mp3": "./sounds/000096.mp3",
+                "ogg": "./sounds/000096.ogg"
             },
-            "startsAt": 317,
+            "startsAt": 136,
             "length": 1,
-            "text": "Bro, pára tudo!",
-            "dateAdded": "2015-07-06T20:04:28.545Z",
+            "text": "Tu tá foda meu",
+            "dateAdded": "2015-07-06T21:32:25.581Z",
             "disabled": false,
             "version": 1
         },
         {
-            "id": "000082",
-            "sourceID": "gc6_UiKOVJc",
+            "id": "000095",
+            "sourceID": "zN9pcPu5nR8",
             "paths": {
-                "mp3": "./sounds/000082.mp3",
-                "ogg": "./sounds/000082.ogg"
+                "mp3": "./sounds/000095.mp3",
+                "ogg": "./sounds/000095.ogg"
             },
-            "startsAt": 208,
-            "length": 1,
-            "text": "Cútchi cútchi",
-            "dateAdded": "2015-07-06T19:55:10.799Z",
+            "startsAt": 134,
+            "length": 2,
+            "text": "Se tu pensas tipo, vais sacar as cuecas para limpar o cu",
+            "dateAdded": "2015-07-06T21:30:37.359Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000107",
+            "sourceID": "Y8wBsLyemk8",
+            "paths": {
+                "mp3": "./sounds/000107.mp3",
+                "ogg": "./sounds/000107.ogg"
+            },
+            "startsAt": 152,
+            "length": 3,
+            "text": "Pow! Faço piscininha, pow!, directo",
+            "dateAdded": "2015-07-06T21:56:57.111Z",
             "disabled": false,
             "version": 1
         },
@@ -1549,6 +1591,34 @@
             "version": 1
         },
         {
+            "id": "000099",
+            "sourceID": "iWAIX559IH8",
+            "paths": {
+                "mp3": "./sounds/000099.mp3",
+                "ogg": "./sounds/000099.ogg"
+            },
+            "startsAt": 4,
+            "length": 3,
+            "text": "Tá a avacalhar directo man",
+            "dateAdded": "2015-07-06T21:38:42.562Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000100",
+            "sourceID": "Y8wBsLyemk8",
+            "paths": {
+                "mp3": "./sounds/000100.mp3",
+                "ogg": "./sounds/000100.ogg"
+            },
+            "startsAt": 47,
+            "length": 2,
+            "text": "Com o meu cabelo sheilona",
+            "dateAdded": "2015-07-06T21:42:27.133Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
             "id": "000111",
             "sourceID": "Y8wBsLyemk8",
             "paths": {
@@ -1559,6 +1629,34 @@
             "length": 3,
             "text": "Escarra-me pá piça ó puta",
             "dateAdded": "2015-07-06T22:02:57.183Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000106",
+            "sourceID": "Y8wBsLyemk8",
+            "paths": {
+                "mp3": "./sounds/000106.mp3",
+                "ogg": "./sounds/000106.ogg"
+            },
+            "startsAt": 119,
+            "length": 2,
+            "text": "Beijoca ardente",
+            "dateAdded": "2015-07-06T21:55:03.336Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000105",
+            "sourceID": "Y8wBsLyemk8",
+            "paths": {
+                "mp3": "./sounds/000105.mp3",
+                "ogg": "./sounds/000105.ogg"
+            },
+            "startsAt": 118,
+            "length": 2,
+            "text": "Já na pegada forte",
+            "dateAdded": "2015-07-06T21:54:06.213Z",
             "disabled": false,
             "version": 1
         },
@@ -1591,128 +1689,30 @@
             "version": 1
         },
         {
-            "id": "000107",
+            "id": "000102",
             "sourceID": "Y8wBsLyemk8",
             "paths": {
-                "mp3": "./sounds/000107.mp3",
-                "ogg": "./sounds/000107.ogg"
+                "mp3": "./sounds/000102.mp3",
+                "ogg": "./sounds/000102.ogg"
             },
-            "startsAt": 152,
-            "length": 3,
-            "text": "Pow! Faço piscininha, pow!, directo",
-            "dateAdded": "2015-07-06T21:56:57.111Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000110",
-            "sourceID": "Y8wBsLyemk8",
-            "paths": {
-                "mp3": "./sounds/000110.mp3",
-                "ogg": "./sounds/000110.ogg"
-            },
-            "startsAt": 190,
-            "length": 1,
-            "text": "Uma chuchinha básica",
-            "dateAdded": "2015-07-06T22:01:21.943Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000105",
-            "sourceID": "Y8wBsLyemk8",
-            "paths": {
-                "mp3": "./sounds/000105.mp3",
-                "ogg": "./sounds/000105.ogg"
-            },
-            "startsAt": 118,
+            "startsAt": 99,
             "length": 2,
-            "text": "Já na pegada forte",
-            "dateAdded": "2015-07-06T21:54:06.213Z",
+            "text": "Caímos na gandaia directo",
+            "dateAdded": "2015-07-06T21:47:10.527Z",
             "disabled": false,
             "version": 1
         },
         {
-            "id": "000109",
-            "sourceID": "Y8wBsLyemk8",
-            "paths": {
-                "mp3": "./sounds/000109.mp3",
-                "ogg": "./sounds/000109.ogg"
-            },
-            "startsAt": 168,
-            "length": 1,
-            "text": "Hardcore shit",
-            "dateAdded": "2015-07-06T21:59:15.156Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000108",
-            "sourceID": "Y8wBsLyemk8",
-            "paths": {
-                "mp3": "./sounds/000108.mp3",
-                "ogg": "./sounds/000108.ogg"
-            },
-            "startsAt": 160,
-            "length": 3,
-            "text": "Pânico, estrondo, moca",
-            "dateAdded": "2015-07-06T21:58:03.086Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000106",
-            "sourceID": "Y8wBsLyemk8",
-            "paths": {
-                "mp3": "./sounds/000106.mp3",
-                "ogg": "./sounds/000106.ogg"
-            },
-            "startsAt": 119,
-            "length": 2,
-            "text": "Beijoca ardente",
-            "dateAdded": "2015-07-06T21:55:03.336Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000083",
+            "id": "000085",
             "sourceID": "gc6_UiKOVJc",
             "paths": {
-                "mp3": "./sounds/000083.mp3",
-                "ogg": "./sounds/000083.ogg"
+                "mp3": "./sounds/000085.mp3",
+                "ogg": "./sounds/000085.ogg"
             },
-            "startsAt": 219,
-            "length": 1,
-            "text": "Nunca mais faças isso",
-            "dateAdded": "2015-07-06T22:20:30.271Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000116",
-            "sourceID": "Y8wBsLyemk8",
-            "paths": {
-                "mp3": "./sounds/000116.mp3",
-                "ogg": "./sounds/000116.ogg"
-            },
-            "startsAt": 242,
+            "startsAt": 221,
             "length": 2,
-            "text": "Fiquei nervótica",
-            "dateAdded": "2015-07-06T22:11:55.089Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000113",
-            "sourceID": "Y8wBsLyemk8",
-            "paths": {
-                "mp3": "./sounds/000113.mp3",
-                "ogg": "./sounds/000113.ogg"
-            },
-            "startsAt": 227,
-            "length": 2,
-            "text": "Puta, tranquilo",
-            "dateAdded": "2015-07-06T22:07:42.737Z",
+            "text": "Num tratou com respeito o meu pipi",
+            "dateAdded": "2015-07-06T19:58:57.278Z",
             "disabled": false,
             "version": 1
         },
@@ -1731,45 +1731,31 @@
             "version": 1
         },
         {
-            "id": "000115",
-            "sourceID": "Y8wBsLyemk8",
-            "paths": {
-                "mp3": "./sounds/000115.mp3",
-                "ogg": "./sounds/000115.ogg"
-            },
-            "startsAt": 237,
-            "length": 3,
-            "text": "Tava-me a sentir, pa, donzela",
-            "dateAdded": "2015-07-06T22:10:19.371Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000117",
-            "sourceID": "Y8wBsLyemk8",
-            "paths": {
-                "mp3": "./sounds/000117.mp3",
-                "ogg": "./sounds/000117.ogg"
-            },
-            "startsAt": 248,
-            "length": 5,
-            "text": "Se eu vou escarrar páquilo, nem amanhã de manhã eu posso acertar",
-            "dateAdded": "2015-07-06T22:14:10.509Z",
-            "disabled": false,
-            "version": 1
-        },
-        {
-            "id": "000118",
+            "id": "000136",
             "version": 1,
-            "sourceID": "zN9pcPu5nR8",
+            "sourceID": "aESw4Xi9iLE",
             "paths": {
-                "mp3": "./sounds/000118.mp3",
-                "ogg": "./sounds/000118.ogg"
+                "mp3": "./sounds/000136.mp3",
+                "ogg": "./sounds/000136.ogg"
             },
-            "startsAt": 35,
+            "startsAt": 99,
+            "length": 1,
+            "text": "Tracei outra vez o indivíduo",
+            "dateAdded": "2015-07-15T23:10:25.059Z",
+            "disabled": false
+        },
+        {
+            "id": "000129",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000129.mp3",
+                "ogg": "./sounds/000129.ogg"
+            },
+            "startsAt": 67,
             "length": 2,
-            "text": "Tu tem que cortar no hidrato",
-            "dateAdded": "2015-07-15T22:07:18.475Z",
+            "text": "Ninguém neste mundo pode",
+            "dateAdded": "2015-07-15T22:53:49.412Z",
             "disabled": false
         },
         {
@@ -1801,6 +1787,90 @@
             "disabled": false
         },
         {
+            "id": "000117",
+            "sourceID": "Y8wBsLyemk8",
+            "paths": {
+                "mp3": "./sounds/000117.mp3",
+                "ogg": "./sounds/000117.ogg"
+            },
+            "startsAt": 248,
+            "length": 5,
+            "text": "Se eu vou escarrar páquilo, nem amanhã de manhã eu posso acertar",
+            "dateAdded": "2015-07-06T22:14:10.509Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000127",
+            "version": 1,
+            "sourceID": "zN9pcPu5nR8",
+            "paths": {
+                "mp3": "./sounds/000127.mp3",
+                "ogg": "./sounds/000127.ogg"
+            },
+            "startsAt": 121,
+            "length": 1,
+            "text": "Eu só uso fio dental",
+            "dateAdded": "2015-07-15T22:37:42.379Z",
+            "disabled": false
+        },
+        {
+            "id": "000125",
+            "version": 1,
+            "sourceID": "zN9pcPu5nR8",
+            "paths": {
+                "mp3": "./sounds/000125.mp3",
+                "ogg": "./sounds/000125.ogg"
+            },
+            "startsAt": 111,
+            "length": 2,
+            "text": "Começo a pensar na minha vida",
+            "dateAdded": "2015-07-15T22:34:18.658Z",
+            "disabled": false
+        },
+        {
+            "id": "000083",
+            "sourceID": "gc6_UiKOVJc",
+            "paths": {
+                "mp3": "./sounds/000083.mp3",
+                "ogg": "./sounds/000083.ogg"
+            },
+            "startsAt": 219,
+            "length": 1,
+            "text": "Nunca mais faças isso",
+            "dateAdded": "2015-07-06T22:20:30.271Z",
+            "disabled": false,
+            "version": 1
+        },
+        {
+            "id": "000118",
+            "version": 1,
+            "sourceID": "zN9pcPu5nR8",
+            "paths": {
+                "mp3": "./sounds/000118.mp3",
+                "ogg": "./sounds/000118.ogg"
+            },
+            "startsAt": 35,
+            "length": 2,
+            "text": "Tu tem que cortar no hidrato",
+            "dateAdded": "2015-07-15T22:07:18.475Z",
+            "disabled": true
+        },
+        {
+            "id": "000128",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000128.mp3",
+                "ogg": "./sounds/000128.ogg"
+            },
+            "startsAt": 55,
+            "length": 2,
+            "text": "Abre assim o polivan",
+            "dateAdded": "2015-07-15T22:52:23.364Z",
+            "disabled": false
+        },
+        {
             "id": "000121",
             "version": 1,
             "sourceID": "zN9pcPu5nR8",
@@ -1812,6 +1882,34 @@
             "length": 2,
             "text": "Foda-se, eu nunca vi papel aqui",
             "dateAdded": "2015-07-15T22:11:57.056Z",
+            "disabled": false
+        },
+        {
+            "id": "000126",
+            "version": 1,
+            "sourceID": "zN9pcPu5nR8",
+            "paths": {
+                "mp3": "./sounds/000126.mp3",
+                "ogg": "./sounds/000126.ogg"
+            },
+            "startsAt": 118,
+            "length": 2,
+            "text": "Aquela soquete à bailarina, tás a ver",
+            "dateAdded": "2015-07-15T22:36:00.508Z",
+            "disabled": false
+        },
+        {
+            "id": "000124",
+            "version": 1,
+            "sourceID": "zN9pcPu5nR8",
+            "paths": {
+                "mp3": "./sounds/000124.mp3",
+                "ogg": "./sounds/000124.ogg"
+            },
+            "startsAt": 109,
+            "length": 1,
+            "text": "Na repuxada",
+            "dateAdded": "2015-07-15T22:17:27.053Z",
             "disabled": false
         },
         {
@@ -1840,20 +1938,412 @@
             "length": 3,
             "text": "Como é que eu pude falhar assim sabes? Redondamente assim...",
             "dateAdded": "2015-07-15T22:15:58.921Z",
+            "disabled": true
+        },
+        {
+            "id": "000152",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000152.mp3",
+                "ogg": "./sounds/000152.ogg"
+            },
+            "startsAt": 325,
+            "length": 4,
+            "text": "Yeah boy, I have a sex bud in my bed",
+            "dateAdded": "2015-07-15T23:43:03.227Z",
             "disabled": false
         },
         {
-            "id": "000124",
+            "id": "000140",
             "version": 1,
-            "sourceID": "zN9pcPu5nR8",
+            "sourceID": "aESw4Xi9iLE",
             "paths": {
-                "mp3": "./sounds/000124.mp3",
-                "ogg": "./sounds/000124.ogg"
+                "mp3": "./sounds/000140.mp3",
+                "ogg": "./sounds/000140.ogg"
             },
-            "startsAt": 109,
+            "startsAt": 165,
+            "length": 2,
+            "text": "Sou mesmo aquela pobre que se deslumbra",
+            "dateAdded": "2015-07-15T23:18:24.713Z",
+            "disabled": false
+        },
+        {
+            "id": "000130",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000130.mp3",
+                "ogg": "./sounds/000130.ogg"
+            },
+            "startsAt": 73,
+            "length": 3,
+            "text": "Aquela pila amiga que tu queres namorar",
+            "dateAdded": "2015-07-15T22:56:11.607Z",
+            "disabled": false
+        },
+        {
+            "id": "000132",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000132.mp3",
+                "ogg": "./sounds/000132.ogg"
+            },
+            "startsAt": 76,
+            "length": 4,
+            "text": "Aquela pila que tem aquela cor, aquele tamanho",
+            "dateAdded": "2015-07-15T22:59:13.248Z",
+            "disabled": false
+        },
+        {
+            "id": "000137",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000137.mp3",
+                "ogg": "./sounds/000137.ogg"
+            },
+            "startsAt": 125,
+            "length": 2,
+            "text": "Pow, alombei ali directo",
+            "dateAdded": "2015-07-15T23:14:03.687Z",
+            "disabled": false
+        },
+        {
+            "id": "000131",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000131.mp3",
+                "ogg": "./sounds/000131.ogg"
+            },
+            "startsAt": 74,
             "length": 1,
-            "text": "Na repuxada",
-            "dateAdded": "2015-07-15T22:17:27.053Z",
+            "text": "Aquela pila linda",
+            "dateAdded": "2015-07-15T22:57:25.559Z",
+            "disabled": false
+        },
+        {
+            "id": "000139",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000139.mp3",
+                "ogg": "./sounds/000139.ogg"
+            },
+            "startsAt": 148,
+            "length": 2,
+            "text": "Tava podendo, tava assim tipo, a causar",
+            "dateAdded": "2015-07-15T23:16:48.127Z",
+            "disabled": false
+        },
+        {
+            "id": "000134",
+            "version": 2,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000134.mp3",
+                "ogg": "./sounds/000134.ogg"
+            },
+            "startsAt": 88,
+            "length": 2,
+            "text": "Tchaka tchaka tchaka tchaka",
+            "dateAdded": "2015-07-15T23:07:10.469Z",
+            "disabled": false
+        },
+        {
+            "id": "000135",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000135.mp3",
+                "ogg": "./sounds/000135.ogg"
+            },
+            "startsAt": 90,
+            "length": 2,
+            "text": "Não vá haver aquele requeijão maroto",
+            "dateAdded": "2015-07-15T23:08:51.512Z",
+            "disabled": false
+        },
+        {
+            "id": "000133",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000133.mp3",
+                "ogg": "./sounds/000133.ogg"
+            },
+            "startsAt": 86,
+            "length": 1,
+            "text": "Eu já a lavar aquele pilau",
+            "dateAdded": "2015-07-15T23:03:02.436Z",
+            "disabled": false
+        },
+        {
+            "id": "000138",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000138.mp3",
+                "ogg": "./sounds/000138.ogg"
+            },
+            "startsAt": 145,
+            "length": 2,
+            "text": "Olho assim ao espelho, pah!",
+            "dateAdded": "2015-07-15T23:15:23.694Z",
+            "disabled": false
+        },
+        {
+            "id": "000149",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000149.mp3",
+                "ogg": "./sounds/000149.ogg"
+            },
+            "startsAt": 297,
+            "length": 2,
+            "text": "Hello, não era para ser",
+            "dateAdded": "2015-07-15T23:35:31.205Z",
+            "disabled": false
+        },
+        {
+            "id": "000142",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000142.mp3",
+                "ogg": "./sounds/000142.ogg"
+            },
+            "startsAt": 196,
+            "length": 1,
+            "text": "I don't speak English",
+            "dateAdded": "2015-07-15T23:21:36.067Z",
+            "disabled": false
+        },
+        {
+            "id": "000141",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000141.mp3",
+                "ogg": "./sounds/000141.ogg"
+            },
+            "startsAt": 194,
+            "length": 1,
+            "text": "E eu: fodeu!",
+            "dateAdded": "2015-07-15T23:20:24.931Z",
+            "disabled": false
+        },
+        {
+            "id": "000150",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000150.mp3",
+                "ogg": "./sounds/000150.ogg"
+            },
+            "startsAt": 305,
+            "length": 3,
+            "text": "Aquela chuveira fria e eu Ai que medo!",
+            "dateAdded": "2015-07-15T23:38:19.819Z",
+            "disabled": false
+        },
+        {
+            "id": "000144",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000144.mp3",
+                "ogg": "./sounds/000144.ogg"
+            },
+            "startsAt": 221,
+            "length": 2,
+            "text": "A fingir que percebo e a rir",
+            "dateAdded": "2015-07-15T23:25:47.918Z",
+            "disabled": false
+        },
+        {
+            "id": "000143",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000143.mp3",
+                "ogg": "./sounds/000143.ogg"
+            },
+            "startsAt": 203,
+            "length": 1,
+            "text": "Eu não sei falar inglês",
+            "dateAdded": "2015-07-15T23:22:43.926Z",
+            "disabled": false
+        },
+        {
+            "id": "000154",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000154.mp3",
+                "ogg": "./sounds/000154.ogg"
+            },
+            "startsAt": 380,
+            "length": 1,
+            "text": "A achar tudo de bom",
+            "dateAdded": "2015-07-15T23:46:57.037Z",
+            "disabled": false
+        },
+        {
+            "id": "000146",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000146.mp3",
+                "ogg": "./sounds/000146.ogg"
+            },
+            "startsAt": 283,
+            "length": 1,
+            "text": "Quis dar de mim",
+            "dateAdded": "2015-07-15T23:30:56.282Z",
+            "disabled": false
+        },
+        {
+            "id": "000145",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000145.mp3",
+                "ogg": "./sounds/000145.ogg"
+            },
+            "startsAt": 259,
+            "length": 2,
+            "text": "Where are you live?",
+            "dateAdded": "2015-07-15T23:28:07.051Z",
+            "disabled": false
+        },
+        {
+            "id": "000147",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000147.mp3",
+                "ogg": "./sounds/000147.ogg"
+            },
+            "startsAt": 287,
+            "length": 1,
+            "text": "Já que tou ali",
+            "dateAdded": "2015-07-15T23:32:14.709Z",
+            "disabled": false
+        },
+        {
+            "id": "000148",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000148.mp3",
+                "ogg": "./sounds/000148.ogg"
+            },
+            "startsAt": 289,
+            "length": 2,
+            "text": "Beijei, abocanhei, ferrei",
+            "dateAdded": "2015-07-15T23:33:18.835Z",
+            "disabled": false
+        },
+        {
+            "id": "000151",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000151.mp3",
+                "ogg": "./sounds/000151.ogg"
+            },
+            "startsAt": 308,
+            "length": 2,
+            "text": "Já um pau a brotar daquela sunga",
+            "dateAdded": "2015-07-15T23:40:00.276Z",
+            "disabled": false
+        },
+        {
+            "id": "000153",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000153.mp3",
+                "ogg": "./sounds/000153.ogg"
+            },
+            "startsAt": 336,
+            "length": 1,
+            "text": "Tá-se a achar, ou quê?",
+            "dateAdded": "2015-07-15T23:44:18.837Z",
+            "disabled": false
+        },
+        {
+            "id": "000155",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000155.mp3",
+                "ogg": "./sounds/000155.ogg"
+            },
+            "startsAt": 384,
+            "length": 2,
+            "text": "Eu já entregue à bicharada ali",
+            "dateAdded": "2015-07-15T23:48:10.893Z",
+            "disabled": false
+        },
+        {
+            "id": "000156",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000156.mp3",
+                "ogg": "./sounds/000156.ogg"
+            },
+            "startsAt": 386,
+            "length": 2,
+            "text": "Ele já a querer pôr o pilau de fora",
+            "dateAdded": "2015-07-15T23:50:38.091Z",
+            "disabled": false
+        },
+        {
+            "id": "000157",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000157.mp3",
+                "ogg": "./sounds/000157.ogg"
+            },
+            "startsAt": 407,
+            "length": 2,
+            "text": "You go! I'm stay, bro!",
+            "dateAdded": "2015-07-15T23:52:24.773Z",
+            "disabled": false
+        },
+        {
+            "id": "000158",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000158.mp3",
+                "ogg": "./sounds/000158.ogg"
+            },
+            "startsAt": 433,
+            "length": 2,
+            "text": "Bora fodere!",
+            "dateAdded": "2015-07-15T23:54:22.981Z",
+            "disabled": false
+        },
+        {
+            "id": "000159",
+            "version": 1,
+            "sourceID": "aESw4Xi9iLE",
+            "paths": {
+                "mp3": "./sounds/000159.mp3",
+                "ogg": "./sounds/000159.ogg"
+            },
+            "startsAt": 434,
+            "length": 2,
+            "text": "Aqui é pa acordar é pá fudê",
+            "dateAdded": "2015-07-15T23:56:15.575Z",
             "disabled": false
         }
     ]
