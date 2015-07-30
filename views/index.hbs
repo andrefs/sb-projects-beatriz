@@ -80,8 +80,13 @@
                             <h1 class="t-small hide-xlarge hide-large">{{project.title}}</h1>
                             <div class="column-group share-buttons all-100 push-left hide-xlarge hide-large">
 {{#if project.facebook.id}}
-                                <div class="fb share">
+		                        <!-- Facebook Like -->
+                                <div class="fb like">
                                     <div class="fb-like pull-right" data-href="{{project.url}}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+                                </div>
+		                        <!-- Facebook Share -->
+                                <div class="fb share">
+                                    <div class="fb-share-button" data-href="{{project.url}}" data-layout="button"></div>
                                 </div>
 {{/if}}
 {{#if project.url}}
@@ -104,15 +109,21 @@
                                         <a class="fb-link" href="{{project.external_link}}"></a>
                                     </div>
                                     <!-- img class="face speaking" src="assets/imgs/bg-sprite.png" /-->
-                                    <p class="align-center">Beatriz Gosta</p>
+                                    <!--p class="align-center">Beatriz Gosta</p-->
 
-                                    <div class="column-group share-buttons all-100 push-left">
+                                    <div class="share-buttons all-100">
 {{#if project.facebook.id}}
-                                        <div class="fb share">
+		                                <!-- Facebook Like -->
+                                        <div class="fb like">
                                             <div class="fb-like pull-right" data-href="{{project.url}}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+                                        </div>
+		                                <!-- Facebook Share -->
+                                        <div class="fb share">
+                                            <div class="fb-share-button" data-href="{{project.url}}" data-layout="button"></div>
                                         </div>
 {{/if}}
 {{#if project.url}}
+		                                <!-- Twitter Share -->
                                         <div class="twitter share">
                                             <a href="https://twitter.com/share" class="twitter-share-button pull-right" data-hashtags="{{project.twitter.hashtag}}">Tweet</a>
                                         </div>
